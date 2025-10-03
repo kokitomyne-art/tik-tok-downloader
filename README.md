@@ -1,0 +1,1 @@
+A simple and efficient TikTok video downloader application that allows users to save videos quickly and easily. The app supports downloading videos without watermarks, ensuring a clean and high-quality result. It is designed with a user-friendly interface, making it accessible for everyone.
